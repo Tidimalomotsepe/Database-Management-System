@@ -28,4 +28,5 @@ A **MySQL database** for an online store, designed for a university assignment. 
 Data Integrity: Primary/Foreign keys, constraints
 Scalability: Normalized structure for growth
 Documentation: Well-commented SQL
+link to my erd :https://github.com/Tidimalomotsepe/Database-Management-System/blob/main/erd.png
 
